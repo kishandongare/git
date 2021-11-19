@@ -1,4 +1,4 @@
-# git
+# git command to commit
 >> kishan@kishan25:~$ sudo apt-get install git
 
 >> kishan@kishan25:~$ sudo add-apt-repository ppa:git-core/ppa
