@@ -56,7 +56,7 @@
 >> git push -u origin main
 
 
-# push an existing repository from the command line
+# push an existing repository from the command line(By GitHub)
 
 >> git remote add origin git@github.com:kishandongare/kkkk.git
 
