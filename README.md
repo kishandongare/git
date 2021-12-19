@@ -51,6 +51,7 @@
 
 >> git commit -m "first commit"
 
+# Git Large File Storage - https://git-lfs.github.com.
 >> git branch -M main
 
 >> git remote add origin git@github.com:kishandongare/kkkk.git
