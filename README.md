@@ -37,6 +37,8 @@
 
 >> kishan@kishan25:~/hellow$ git push -u origin main
 
+>> git push --force origin main (if not work above)
+
 >> kishan@kishan25:~/hellow$ git status
 
 # create a new repository on the command line(By GitHub)
