@@ -86,6 +86,9 @@
 
 >>kishan@kishan25:~/movie$ git push
 
->>
+# Hard Reset origin/master or main
 
+>> https://stackoverflow.com/questions/9529078/how-do-i-use-git-reset-hard-head-to-revert-to-a-previous-commit
+
+>> https://stackoverflow.com/questions/2452226/master-branch-and-origin-master-have-diverged-how-to-undiverge-branches/2452610
 
