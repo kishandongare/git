@@ -67,3 +67,25 @@
 >> git push -u origin main
 
 # Git Large File Storage - https://git-lfs.github.com.
+
+>> kishan@kishan25:~/movie$ git lfs install
+
+>>kishan@kishan25:~/movie$ git remote add origin git@github.com:kishandongare/movie-recommendation-system.git
+
+>>kishan@kishan25:~/movie$ git lfs track "similarity.pkl"  (if lots of file *.pkl)
+
+>>kishan@kishan25:~/movie$ git add .gitattributes
+
+>>kishan@kishan25:~/movie$ git add similarity.pkl
+
+>>kishan@kishan25:~/movie$ git commit -m "first commit"
+
+>>kishan@kishan25:~/movie$ git push origin main
+
+>>kishan@kishan25:~/movie$ git lfs migrate import --include="similarity.pkl"
+
+>>kishan@kishan25:~/movie$ git push
+
+>>
+
+
